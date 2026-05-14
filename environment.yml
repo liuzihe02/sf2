@@ -16,3 +16,4 @@ dependencies:
   - flake8
   - pip:
       - -e .
+      - jupyter-tikz #render tikz images in ipynb

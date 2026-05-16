@@ -19,3 +19,6 @@ htmlcov
 # allow notebook images
 !figures/lbt.png
 !figures/pot.png
+
+#ignore zach's report and stuff
+zach/
